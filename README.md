@@ -21,8 +21,10 @@ The application is built using *HTML, **CSS, and **JavaScript*, and is designed 
 
 1. Open index.html in a web browser.
 2. Click *Start* to begin the timer.
-3. When needed, click *Reset* to restart the timer.
-4. The progress bar will visually show the time progression.
+3. Or use this link : https://24000722.github.io/Pomodoro-Timer/
+4. You can also view it on the github page
+5. When needed, click *Reset* to restart the timer.
+6. The progress bar will visually show the time progression.
 
 ---
 
